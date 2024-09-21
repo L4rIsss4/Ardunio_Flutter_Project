@@ -1,0 +1,10 @@
+Flutter Projesinin çalışması için terminalden öncelikle flutter pub get komutu çalıştırılmalıdır. Bu komut gerekli paketleri 
+sisteminize yükleyecektir böylelikle hata almadan program derlenecektir. 
+----------------------------------------------------------------------------
+Flutter projesini çalıştırabilmeniz için flutter run komutunu terminalden yazmanız ardından tarayıcı seçimi yapmanız gerekmektedir. 
+----------------------------------------------------------------------------------------------
+Projenin içerisinde Arduino dosyası bulunmaktadır ancak açılamaması  durumunda erişebilmeniz adına ArduinoKodlarıAçılmazsa.txt dosyasında
+bu kodlara erişim sağlayabilirsiniz.
+----------------------------------------------------------------------------
+Devrenin görselli olarak detaylı açıklaması videolarda bulunmaktadır. 
+----------------------------------------------------------------------------------------
